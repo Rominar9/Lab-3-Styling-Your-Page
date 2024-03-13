@@ -1,0 +1,22 @@
+h2, h3, h4, h5, h6{
+  background-color: #7FFFD4;
+  color: #008080;
+  font-family: Arial;
+}
+hr{
+  color: #B0E0E6;
+}
+body{
+  background-color: #AFEEEE;
+}
+p{
+  background-color: #0000CD;
+  color:#87CEFA;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 2px;
+  border-radius: 4%;
+  border-color: bisque;
+  border-style: double;
+  padding: 5px;
+}
+
